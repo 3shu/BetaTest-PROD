@@ -1,0 +1,9 @@
+export const APP_PORT: any = process.env.APP_PORT || 3000;
+export const PG_PASS: any = process.env.PG_PASS || 'admin';
+export const PG_USER: any = process.env.PG_USER || 'admin';
+export const PG_HOST: any = process.env.PG_HOST || 'localhost';
+export const PG_DATABASE: any = process.env.PG_DATABASE || 'postgres';
+export const PG_PORT: any = process.env.PG_PORT || 5432;
+export const PG_EXPOSE_PORT: any = process.env.PG_EXPOSE_PORT || 5432;
+export const JWTSECRET: any = process.env.JWTSECRET || '@JWTsecret';
+export const VERSION: any = process.env.VERSION || '1.0.0';
