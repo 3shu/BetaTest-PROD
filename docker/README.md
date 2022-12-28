@@ -65,7 +65,7 @@ Run this command to verify correctly docker
 docker ps
 ```
 
-Go to [home directory](https://github.com/Beta-Tech-Costa-Rica/BetaTest) to continue
+Go to [home directory](https://github.com/3shu/BetaTest-PROD) to continue
 
 ***
 [![Powered by](https://img.shields.io/badge/Powered%20by-Eduardo%20Salas-blue)](https://github.com/EdoSalas)
